@@ -1,0 +1,57 @@
+[
+    {
+        "name": "FaviGen",
+        "url": "https://github.com/zuri-training/favicons_gen_proj_team_63",
+        "description": "Favicon Generator is a website that allows users to upload an image and generates Favicons of different sizes.",
+        "banner": "https://thumbs2.imgbox.com/c6/d8/Ty640Qx8_t.jpg",
+        "color": "#f1e05a",
+        "lang": "Python (Django  Framework)",
+        "date": "2022-08-12",
+        "stars": 2,
+        "forks": 31
+    },
+    {
+        "name": "Mobile Quiz App",
+        "url": "https://github.com/AOS2019/Mobile-Quiz-App",
+        "description": "A mobile Quiz Application that runs on Android operating system.",
+        "banner": "https://thumbs2.imgbox.com/d5/b4/YAHEZuml_t.jpg",
+        "color": "#f1e05a",
+        "lang": "kvlang",
+        "date": "2020-11-19T09:58:47Z",
+        "stars": 0,
+        "forks": 0
+    },
+    {
+        "name": "IPL-2020-Prediction",
+        "url": "https://github.com/PtPrashantTripathi/IPL-2020-Prediction",
+        "description": "Predictive Analysis of an IPL Match using SVM Binary Classifier",
+        "banner": "https://repository-images.githubusercontent.com/299325888/77f6e880-034c-11eb-8ee1-b44403c583c2",
+        "color": "#e34c26",
+        "lang": "HTML",
+        "date": "2020-09-28T13:58:21Z",
+        "stars": 6,
+        "forks": 3
+    },
+    {
+        "name": "linkpe",
+        "url": "https://github.com/PtPrashantTripathi/linkpe",
+        "description": "Linkpe is a Node.js based API\ud83d\udc33 to generate shareable UPI Payment links",
+        "banner": "https://repository-images.githubusercontent.com/302577255/baf4a800-0e84-11eb-9ccd-61f6eeec1ddb",
+        "color": "#e34c26",
+        "lang": "HTML",
+        "date": "2020-10-09T08:16:31Z",
+        "stars": 27,
+        "forks": 11
+    },
+    {
+        "name": "movieinfo",
+        "url": "https://github.com/PtPrashantTripathi/movieinfo",
+        "description": "Movie info app built with OMDb API that gets movie info from IMDb and Rotten Tomatoes.",
+        "banner": "https://repository-images.githubusercontent.com/301684261/b94f3280-083b-11eb-84a9-dc749901f069",
+        "color": "#e34c26",
+        "lang": "HTML",
+        "date": "2020-10-06T10:02:13Z",
+        "stars": 6,
+        "forks": 2
+    }
+]
