@@ -13,7 +13,7 @@
     {
         "name": "Mobile Quiz App",
         "url": "https://github.com/AOS2019/Mobile-Quiz-App",
-        "description": "A mobile Quiz Application that runs on Android operating system.",
+        "description": "The Mobile Quiz App is mobile Application that runs on Android operating system.",
         "banner": "https://thumbs2.imgbox.com/d5/b4/YAHEZuml_t.jpg",
         "color": "#f1e05a",
         "lang": "kvlang",
@@ -24,7 +24,7 @@
     {
         "name": "IPL-2020-Prediction",
         "url": "https://github.com/PtPrashantTripathi/IPL-2020-Prediction",
-        "description": "Predictive Analysis of an IPL Match using SVM Binary Classifier",
+        "description": "Predictive Analysis of an IPL Match using SVM Binary Classifier, which has a question and four options",
         "banner": "https://repository-images.githubusercontent.com/299325888/77f6e880-034c-11eb-8ee1-b44403c583c2",
         "color": "#e34c26",
         "lang": "HTML",
