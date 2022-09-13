@@ -1,9 +1,9 @@
 <p align="center"><a href="https://aos2019.github.io/myportfolio"><img alt="linkpe app" src="/img/img-bg-1.jpg" width="300vw"/></a></p>
 <p align="center">
-	<a href="https://github.com/AOS2019"><img alt="Devloper" src=""/></a>
+	<!-- <a href="https://github.com/AOS2019"><img alt="Devloper" src=""/></a> -->
 	<a href="https://github.com/AOS2019/myportfolio/LICENSE"><img alt="License" src="https://img.shields.io/github/license/PtPrashantTripathi/ptprashanttripathi.github.io.svg?style=flat-square"/></a>
 	<a href="https://aos2019.github.io/myportfolio"><img alt="Website Status" src="https://img.shields.io/website/http/ptprashanttripathi.github.io.svg?down_message=Down&up_message=Online&style=flat-square"/></a>
-	<a href="https://github.com/AOS2019/myportfolio/stargazers"><img alt="stars-shield" src=""/></a>
+	<!-- <a href="https://github.com/AOS2019/myportfolio/stargazers"><img alt="stars-shield" src=""/></a> -->
 </p>
 <p align="center">
 	<a href="https://aos2019.github.io/myportfolio">View Demo</a>·
@@ -51,18 +51,7 @@ My Portfolio site using Material Design. Mobile First Layout I Fully Responsive
 					<sub><b>Akintoye Olalekan Samuel</b></sub>
 				</a>
 		</th>
-  	</tr>
- 	<tr>
-		<td align="center">
-			<a href="https://github.com/AOS2019">
-				<img src="/img/photo.png?s=200&v=4" width="100px;" alt=""/>
-			</a>
-		</td>
-	</tr>
-</table> 
-<table>
-	<tr>
-		<th align="center">
+      <th align="center">
 				<a href="https://github.com/ptprashanttripathi">
 					<sub><b>Pt. Prashant Tripathi</b></sub>
 				</a>
@@ -70,12 +59,18 @@ My Portfolio site using Material Design. Mobile First Layout I Fully Responsive
   	</tr>
  	<tr>
 		<td align="center">
+			<a href="https://github.com/AOS2019">
+				<img src="/img/photo.png?s=200&v=4" width="100px;" alt=""/>
+			</a>
+		</td>
+		<td align="center">
 			<a href="https://github.com/ptprashanttripathi">
 				<img src="https://avatars2.githubusercontent.com/u/26687933?s=200&v=4" width="100px;" alt=""/>
 			</a>
 		</td>
 	</tr>
-</table>   
+</table> 
+
 
 ## Questions and Feedback
 
