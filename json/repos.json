@@ -31,5 +31,16 @@
         "date": "2022-06-17",
         "stars": 0,
         "forks": 0
+    },
+    {
+        "name": "A Virtual Assistant",
+        "url": "https://github.com/AOS2019/AOS-1.0",
+        "description": "AOS 1.0 is a Desktop standalone virtual assistant.",
+        "banner": "https://thumbs2.imgbox.com/3c/be/zNlmSuDr_t.jpg",
+        "color": "#f1e05a",
+        "lang": "python",
+        "date": "2022-09-23",
+        "stars": 0,
+        "forks": 0
     }
 ]
