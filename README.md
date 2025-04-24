@@ -15,9 +15,9 @@
 
 My Portfolio site using Material Design. Mobile First Layout I Fully Responsive
 
-## 🚀 Screenshot 
+<!--## 🚀 Screenshot
 
-![](https://repository-images.githubusercontent.com/281363612/695e6280-1c65-11eb-9dea-911725639157)
+![](https://repository-images.githubusercontent.com/281363612/695e6280-1c65-11eb-9dea-911725639157)-->
 
 ## 🧐 Features
 
